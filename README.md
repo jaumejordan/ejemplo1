@@ -35,3 +35,8 @@ Bla bla
 ### Apartado 6.3
 
 Bla bla
+
+## Apartado 7
+
+El apartado correspondiente a practica.py
+Esta sería nuestra nueva funcionalidad y su léeme.
