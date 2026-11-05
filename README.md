@@ -1,1 +1,13 @@
-# Repositorio de ejemplo 1\n## Apartado 1\n Bla bla\n##Apartado 2\n Bla bla 2
+# Repositorio de ejemplo 1
+
+## Apartado 1
+
+Bla bla
+
+## Apartado 2
+
+Bla bla 2
+
+## Apartado 3
+
+Bla bla 3
